@@ -11,3 +11,7 @@ ___
 * chips
 * gummy bears
 * Pretzels
+
+## Other pages
+
+[click here to see yucky foods](yuck.md)
